@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://geyuuu.github.io"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -13,14 +13,14 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "geyuuu"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
+  [languages.cn]
+    title = "geyuuu"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/cn"
 
 [sitemap]
   changefreq = "monthly"
@@ -39,4 +39,4 @@ publishDir = "docs"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/__geyuuu"
